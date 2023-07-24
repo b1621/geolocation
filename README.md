@@ -1,8 +1,13 @@
-# React + Vite
+# Geolocation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+The Location Tracker App is a simple web application that allows users to retrieve their current latitude and longitude coordinates by clicking the "Get My Position" button. Once obtained, the coordinates are displayed as a link, and clicking the link opens a new page showing the user's location on a map.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+
+## Features
+
+- Retrieve user's current latitude and longitude coordinates.
+- Display the coordinates as a link.
+- View the user's location on a map in a new page.
